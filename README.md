@@ -55,13 +55,9 @@ Files included in this repository will help you build a 3-node Docker Enterprise
 
         > Outputs:
             > Docker DTR url = https://a.b.c.d/
-
             > Docker UCP host ip_address = a.b.c.d
-            
             > Docker UCP url = https://a.b.c.d:xxxx/
-            
             > Linux worker ip_address = aa.bb.cc.dd
-            
             > Windows worker ip_address = aaa.bbb.ccc.ddd
 
 ## Accessing the Docker Enterprise cluster from your Laptop
